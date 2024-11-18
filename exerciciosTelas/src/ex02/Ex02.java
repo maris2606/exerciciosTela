@@ -1,4 +1,4 @@
-commit package ex02;
+package ex02;
 
 import java.awt.EventQueue;
 
